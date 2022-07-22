@@ -1,3 +1,3 @@
 function myFunction() {
-  windows.location"./homepage.html"
+  window.location.href = "./homepage.html";
 }
