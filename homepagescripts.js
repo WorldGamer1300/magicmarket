@@ -15,3 +15,13 @@ function mytextboxFunction() {
     }
 }
 
+
+function mypostFunction() {
+  window.location.href = "./newmagiccardpost.html";
+}
+
+function myindexFunction() {
+  window.location.href = "./index.html";
+}
+
+
