@@ -71,6 +71,11 @@ height: 50px;
 width: 25%;
 margin-top: 20px;
 border-width: 1px;
+color: #4a2932;
+text-decoration: none;
+font-size: large;
+font-family: 'Cormorant SC', serif;
+font-weight: bold;
 }
 
 a{
